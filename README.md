@@ -1,3 +1,4 @@
-# JavaScript Interview -Q&A
+# JavaScript Interview - Q&A
 
 * Strict mode
+* Passing variables
