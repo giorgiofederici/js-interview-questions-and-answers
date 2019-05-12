@@ -2,3 +2,4 @@
 
 * Strict mode
 * Passing variables
+* Types
